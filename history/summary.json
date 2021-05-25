@@ -4,18 +4,20 @@
     "url": "https://buddytraveler.com",
     "icon": "https://favicons.githubusercontent.com/buddytraveler.com",
     "slug": "buddy-traveler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 839,
-    "timeWeek": 534,
-    "timeMonth": 549,
-    "timeYear": 549,
-    "dailyMinutesDown": {}
+    "time": 545,
+    "timeDay": 633,
+    "timeWeek": 521,
+    "timeMonth": 545,
+    "timeYear": 545,
+    "dailyMinutesDown": {
+      "2021-05-25": 0
+    }
   },
   {
     "name": "Google",
