@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/buddytraveler.com",
     "slug": "buddy-traveler",
     "status": "up",
-    "uptime": "69.00%",
+    "uptime": "69.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.76%",
+    "uptimeWeek": "35.89%",
     "uptimeMonth": "20.08%",
-    "uptimeYear": "69.00%",
+    "uptimeYear": "69.28%",
     "time": 731,
     "timeDay": 544,
     "timeWeek": 299,
@@ -72,9 +72,9 @@
     "url": "https://yahoo.com",
     "icon": "https://favicons.githubusercontent.com/yahoo.com",
     "slug": "yahoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,7 +83,9 @@
     "timeWeek": 702,
     "timeMonth": 686,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 0
+    }
   },
   {
     "name": "Facebook",
